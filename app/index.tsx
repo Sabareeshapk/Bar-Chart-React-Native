@@ -29,7 +29,7 @@ if (Platform.OS === "web") {
 
 export default function Index() {
   const data = [
-    { day: "Monday", value: 40 },
+    { day: "Monday", value: 43 },
     { day: "Tuesday", value: 75 },
     { day: "Wednesday", value: 55 },
     { day: "Thursday", value: 90 },
